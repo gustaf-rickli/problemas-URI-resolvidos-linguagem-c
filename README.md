@@ -1,2 +1,2 @@
-# problemas-URI-resolvidos-linguagem-c
-Problemas de Programação URI resolvidos em linguagem C
+# Disclaimer
+Dentro de cada código contem um comentário com o problema que foi resolvido
